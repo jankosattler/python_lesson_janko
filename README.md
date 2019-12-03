@@ -1,10 +1,10 @@
 # Python lesson
 
 ## Author
-Dr. Janko Sattler
+Janko Sattler
 
 ## Date
-2019-12-03
+2019-12-65
 
 
 Hello World ;-)
